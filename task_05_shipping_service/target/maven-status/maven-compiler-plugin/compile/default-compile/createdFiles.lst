@@ -1,0 +1,9 @@
+com\globalbooks\shipping\service\ShippingService.class
+com\globalbooks\shipping\ShippingApplication.class
+com\globalbooks\shipping\controller\ShippingController.class
+com\globalbooks\shipping\repository\ShippingRepository.class
+com\globalbooks\shipping\model\ShippingStatus.class
+com\globalbooks\shipping\model\Shipping.class
+com\globalbooks\shipping\config\RabbitMQConfig.class
+com\globalbooks\shipping\consumer\ShippingEventConsumer$ShippingRequiredEvent.class
+com\globalbooks\shipping\consumer\ShippingEventConsumer.class

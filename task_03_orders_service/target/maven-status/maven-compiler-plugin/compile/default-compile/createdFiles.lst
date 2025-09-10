@@ -1,0 +1,13 @@
+com\globalbooks\orders\model\OrderItem.class
+com\globalbooks\orders\config\OAuth2SecurityConfig.class
+com\globalbooks\orders\integration\OrderEventProducer.class
+com\globalbooks\orders\config\GlobalExceptionHandler.class
+com\globalbooks\orders\integration\OrderEventProducer$PaymentRequiredEvent.class
+com\globalbooks\orders\service\OrderService.class
+com\globalbooks\orders\integration\OrderEventProducer$ShippingRequiredEvent.class
+com\globalbooks\orders\config\RabbitMQConfig.class
+com\globalbooks\orders\model\OrderStatus.class
+com\globalbooks\orders\controller\OrderController.class
+com\globalbooks\orders\repository\OrderRepository.class
+com\globalbooks\orders\OrdersApplication.class
+com\globalbooks\orders\model\Order.class

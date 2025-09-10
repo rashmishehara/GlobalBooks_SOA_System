@@ -1,0 +1,9 @@
+com\globalbooks\payments\consumer\PaymentEventConsumer.class
+com\globalbooks\payments\service\PaymentService.class
+com\globalbooks\payments\model\Payment.class
+com\globalbooks\payments\consumer\PaymentEventConsumer$PaymentRequiredEvent.class
+com\globalbooks\payments\controller\PaymentController.class
+com\globalbooks\payments\model\PaymentStatus.class
+com\globalbooks\payments\PaymentsApplication.class
+com\globalbooks\payments\repository\PaymentRepository.class
+com\globalbooks\payments\config\RabbitMQConfig.class

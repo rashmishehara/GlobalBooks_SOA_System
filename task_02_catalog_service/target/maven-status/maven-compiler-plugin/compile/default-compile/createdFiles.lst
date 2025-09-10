@@ -1,0 +1,17 @@
+com\globalbooks\catalog\GetBookByIdRequest.class
+com\globalbooks\catalog\GetBookPriceResponse.class
+com\globalbooks\catalog\CheckAvailabilityResponse.class
+com\globalbooks\catalog\SearchBooksResponse.class
+com\globalbooks\catalog\CheckAvailabilityRequest.class
+com\globalbooks\catalog\GetBookByIdResponse.class
+com\globalbooks\catalog\WebServiceConfig.class
+com\globalbooks\catalog\GetBookPriceRequest.class
+com\globalbooks\catalog\CxfConfig.class
+com\globalbooks\catalog\CatalogServiceImpl.class
+com\globalbooks\catalog\CatalogEndpoint.class
+com\globalbooks\catalog\Book.class
+com\globalbooks\catalog\CatalogApplication.class
+com\globalbooks\catalog\CatalogService.class
+com\globalbooks\security\ServerPasswordCallback.class
+com\globalbooks\catalog\SearchBooksRequest.class
+com\globalbooks\catalog\WSSecurityConfig.class
